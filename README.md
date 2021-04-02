@@ -1,2 +1,3 @@
 # tour-plan
-Project Alpysbayeva R
+
+Проект Райхан Алпысбаева
