@@ -654,8 +654,8 @@ template {
     background-color: #333333;
   }
   .stars {
-    -ms-flex-preferred-size: 15%;
-        flex-basis: 15%;
+    -ms-flex-preferred-size: 11%;
+        flex-basis: 11%;
   }
   .hotel-name {
     -ms-flex-preferred-size: 100%;
@@ -688,11 +688,19 @@ template {
   .logo {
     width: 99px;
   }
+  .stars {
+    -ms-flex-preferred-size: 20%;
+        flex-basis: 20%;
+  }
 }
 
 @media (max-width: 320px) {
   .navbar-top {
     padding: 28px 0;
+  }
+  .stars {
+    -ms-flex-preferred-size: 20%;
+        flex-basis: 20%;
   }
 }
 /*# sourceMappingURL=style.css.map */
